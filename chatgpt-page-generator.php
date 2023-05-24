@@ -4,6 +4,12 @@
  * Description: A plugin to generate new pages using ChatGPT API.
  * Version: 1.0
  * Author: Omomoh Agiogu
+ * Stable tag: (version number)
+ *License: (license name, e.g., GPLv2 or MIT)
+ *Tags: (plugin tags, separated by commas)
+*Requires at least: (minimum WordPress version required)
+*Tested up to: (latest WordPress version tested)
+ * 
  */
 
 // Exit if accessed directly
