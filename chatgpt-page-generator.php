@@ -26,7 +26,7 @@ class ChatGPT_Page_Generator_Plugin {
    
     // Activation hook callback
     public function activate() {
-        // Activation tasks, if any
+        
     }
 
     // Deactivation hook callback
